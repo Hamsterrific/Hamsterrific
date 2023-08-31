@@ -11,6 +11,9 @@ Hi, I'm Sofia, a Junior Front-End Developer open to work!
 - HTML
 - CSS, SASS
 - JavaScript
+- React
+- Redux
+- TypeScript (basics)
 - Automated testing (Jest)
 - English: fluent (C2)
 
