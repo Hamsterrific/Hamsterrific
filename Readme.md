@@ -10,10 +10,10 @@ Hi, I'm Sofia, a Junior Front-End Developer open to work!
 
 - HTML
 - CSS, SASS
+- Bootstrap
 - JavaScript
 - React
-- Redux
-- TypeScript (basics)
+- Redux Toolkit
 - Automated testing (Jest)
 - English: fluent (C2)
 
